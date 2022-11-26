@@ -82,7 +82,7 @@ const Title = String.raw`
                           
                                           
                                 
-                                     Anti Raid | Locks.#1337
+                                     Anti Raid | $ zelix666#7872
 
 `;
 
